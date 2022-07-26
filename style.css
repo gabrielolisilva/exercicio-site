@@ -136,6 +136,10 @@ main a:hover{
     color: white;
 }
 
+main > li{
+    margin-top: 22px;
+}
+
 main img{
     width: 100%;
 }
@@ -185,8 +189,8 @@ div.video > iframe{
 }
 
 footer{
-    background-color: var(--cor5);
+    background-color: var(--cor3);
     text-align: center;
-    font-size: 0.8em;
-    padding: 2px;
+    font-size: 1em;
+    padding: 6px;
 }
